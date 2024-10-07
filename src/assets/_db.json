@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "cin": "15487",
+      "name": "cherif",
+      "cv": "lien",
+      "type": "teacher 0",
+      "createDate": "2024-09-30T13:09:42.880Z",
+      "id": "112"
+    },
+    {
+      "id": "fada",
+      "cin": "1848",
+      "name": "ahmad mohsen",
+      "cv": "cv 3",
+      "type": "student",
+      "createDate": "2024-09-30T13:44:41.383Z"
+    }
+  ]
+}
